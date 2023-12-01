@@ -1,0 +1,206 @@
+mu: 5000
+num_children: 5000
+mutation rate: 0.5
+parent selection: fitness_proportionate_selection
+parent selection kwargs: {'k': 7}
+survival selection: k_tournament_without_replacement
+survival selection kwargs: {'k': 3}
+recombination kwargs: {'method': 'one-point'}
+mutation kwargs: {'bonus': False, 'normal_std': 10, 'expected_location_changes': 5, 'bounds': ((0, 212), (0, 40))}
+Initial population size: 5000
+Evaluations: 5000
+Local best penalized fitness: 83
+Local mean penalized fitness: 11.126
+Local best base fitness: 32
+Local mean base fitness: -49.9566
+Number of valid solutions: 3
+Number of children: 5000
+Number of mutations: 2533
+Pre-survival population size: 10000
+Post-survival population size: 5000
+Evaluations: 10000
+Local best penalized fitness: 85
+Local mean penalized fitness: 21.2054
+Local best base fitness: 20
+Local mean base fitness: -49.973
+Number of valid solutions: 2
+Number of children: 5000
+Number of mutations: 2499
+Pre-survival population size: 10000
+Post-survival population size: 5000
+Evaluations: 15000
+Local best penalized fitness: 91
+Local mean penalized fitness: 30.134
+Local best base fitness: 20
+Local mean base fitness: -49.986
+Number of valid solutions: 1
+Number of children: 5000
+Number of mutations: 2526
+Pre-survival population size: 10000
+Post-survival population size: 5000
+Evaluations: 20000
+Local best penalized fitness: 97
+Local mean penalized fitness: 38.4568
+Local best base fitness: 25
+Local mean base fitness: -49.985
+Number of valid solutions: 1
+Number of children: 5000
+Number of mutations: 2464
+Pre-survival population size: 10000
+Post-survival population size: 5000
+Evaluations: 25000
+Local best penalized fitness: 99
+Local mean penalized fitness: 45.764
+Local best base fitness: -50
+Local mean base fitness: -50
+Number of valid solutions: 0
+Number of children: 5000
+Number of mutations: 2416
+Pre-survival population size: 10000
+Post-survival population size: 5000
+Evaluations: 30000
+Local best penalized fitness: 99
+Local mean penalized fitness: 52.4684
+Local best base fitness: -50
+Local mean base fitness: -50
+Number of valid solutions: 0
+Number of children: 5000
+Number of mutations: 2478
+Pre-survival population size: 10000
+Post-survival population size: 5000
+Evaluations: 35000
+Local best penalized fitness: 103
+Local mean penalized fitness: 58.586
+Local best base fitness: 61
+Local mean base fitness: -49.9778
+Number of valid solutions: 1
+Number of children: 5000
+Number of mutations: 2450
+Pre-survival population size: 10000
+Post-survival population size: 5000
+Evaluations: 40000
+Local best penalized fitness: 123
+Local mean penalized fitness: 64.22
+Local best base fitness: -50
+Local mean base fitness: -50
+Number of valid solutions: 0
+Number of children: 5000
+Number of mutations: 2501
+Pre-survival population size: 10000
+Post-survival population size: 5000
+Evaluations: 45000
+Local best penalized fitness: 137
+Local mean penalized fitness: 69.4766
+Local best base fitness: 65
+Local mean base fitness: -49.977
+Number of valid solutions: 1
+Number of children: 5000
+Number of mutations: 2437
+Pre-survival population size: 10000
+Post-survival population size: 5000
+Evaluations: 50000
+Local best penalized fitness: 137
+Local mean penalized fitness: 74.1932
+Local best base fitness: 65
+Local mean base fitness: -49.977
+Number of valid solutions: 1
+Number of children: 5000
+Number of mutations: 2514
+Pre-survival population size: 10000
+Post-survival population size: 5000
+Evaluations: 55000
+Local best penalized fitness: 137
+Local mean penalized fitness: 78.8232
+Local best base fitness: -50
+Local mean base fitness: -50
+Number of valid solutions: 0
+Number of children: 5000
+Number of mutations: 2504
+Pre-survival population size: 10000
+Post-survival population size: 5000
+Evaluations: 60000
+Local best penalized fitness: 137
+Local mean penalized fitness: 83.1518
+Local best base fitness: -50
+Local mean base fitness: -50
+Number of valid solutions: 0
+Number of children: 5000
+Number of mutations: 2466
+Pre-survival population size: 10000
+Post-survival population size: 5000
+Evaluations: 65000
+Local best penalized fitness: 137
+Local mean penalized fitness: 87.3086
+Local best base fitness: -50
+Local mean base fitness: -50
+Number of valid solutions: 0
+Number of children: 5000
+Number of mutations: 2489
+Pre-survival population size: 10000
+Post-survival population size: 5000
+Evaluations: 70000
+Local best penalized fitness: 137
+Local mean penalized fitness: 91.3664
+Local best base fitness: -50
+Local mean base fitness: -50
+Number of valid solutions: 0
+Number of children: 5000
+Number of mutations: 2564
+Pre-survival population size: 10000
+Post-survival population size: 5000
+Evaluations: 75000
+Local best penalized fitness: 137
+Local mean penalized fitness: 95.4674
+Local best base fitness: -50
+Local mean base fitness: -50
+Number of valid solutions: 0
+Number of children: 5000
+Number of mutations: 2541
+Pre-survival population size: 10000
+Post-survival population size: 5000
+Evaluations: 80000
+Local best penalized fitness: 141
+Local mean penalized fitness: 99.506
+Local best base fitness: -50
+Local mean base fitness: -50
+Number of valid solutions: 0
+Number of children: 5000
+Number of mutations: 2550
+Pre-survival population size: 10000
+Post-survival population size: 5000
+Evaluations: 85000
+Local best penalized fitness: 141
+Local mean penalized fitness: 103.4074
+Local best base fitness: -50
+Local mean base fitness: -50
+Number of valid solutions: 0
+Number of children: 5000
+Number of mutations: 2522
+Pre-survival population size: 10000
+Post-survival population size: 5000
+Evaluations: 90000
+Local best penalized fitness: 144
+Local mean penalized fitness: 107.2074
+Local best base fitness: -50
+Local mean base fitness: -50
+Number of valid solutions: 0
+Number of children: 5000
+Number of mutations: 2573
+Pre-survival population size: 10000
+Post-survival population size: 5000
+Evaluations: 95000
+Local best penalized fitness: 145
+Local mean penalized fitness: 110.9568
+Local best base fitness: -50
+Local mean base fitness: -50
+Number of valid solutions: 0
+Number of children: 5000
+Number of mutations: 2514
+Pre-survival population size: 10000
+Post-survival population size: 5000
+Evaluations: 100000
+Local best penalized fitness: 145
+Local mean penalized fitness: 114.3358
+Local best base fitness: -50
+Local mean base fitness: -50
+Number of valid solutions: 0
