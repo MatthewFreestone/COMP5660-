@@ -1,0 +1,814 @@
+mu: 500
+num_children: 500
+mutation rate: 0.6
+parent selection: k_tournament_with_replacement
+parent selection kwargs: {'k': -1}
+survival selection: k_tournament_without_replacement
+survival selection kwargs: {'k': -1}
+recombination kwargs: {'method': 'bonus', 'points': 3}
+mutation kwargs: {'bonus': False, 'normal_std': 5, 'expected_location_changes': 3, 'bounds': ((0, 212), (0, 40))}
+Initial population size: 500
+Individuals in the Pareto front: 500
+Local Pareto front mean length: -1
+Local Pareto front mean width: -1
+Local Pareto front hypervolume: 0
+Individuals in the Pareto front: 1000
+Local Pareto front mean length: -1
+Local Pareto front mean width: -1
+Local Pareto front hypervolume: 0
+Individuals in the Pareto front: 1500
+Local Pareto front mean length: -1
+Local Pareto front mean width: -1
+Local Pareto front hypervolume: 0
+Individuals in the Pareto front: 2000
+Local Pareto front mean length: -1
+Local Pareto front mean width: -1
+Local Pareto front hypervolume: 0
+Individuals in the Pareto front: 2500
+Local Pareto front mean length: -1
+Local Pareto front mean width: -1
+Local Pareto front hypervolume: 0
+Individuals in the Pareto front: 1
+Local Pareto front mean length: 1
+Local Pareto front mean width: 1
+Local Pareto front hypervolume: 4
+Individuals in the Pareto front: 1
+Local Pareto front mean length: 6
+Local Pareto front mean width: 1
+Local Pareto front hypervolume: 14
+Individuals in the Pareto front: 1
+Local Pareto front mean length: 6
+Local Pareto front mean width: 1
+Local Pareto front hypervolume: 14
+Individuals in the Pareto front: 1
+Local Pareto front mean length: 6
+Local Pareto front mean width: 1
+Local Pareto front hypervolume: 14
+Individuals in the Pareto front: 1
+Local Pareto front mean length: 6
+Local Pareto front mean width: 1
+Local Pareto front hypervolume: 14
+Individuals in the Pareto front: 1
+Local Pareto front mean length: 6
+Local Pareto front mean width: 1
+Local Pareto front hypervolume: 14
+Individuals in the Pareto front: 1
+Local Pareto front mean length: 6
+Local Pareto front mean width: 1
+Local Pareto front hypervolume: 14
+Individuals in the Pareto front: 1
+Local Pareto front mean length: 6
+Local Pareto front mean width: 1
+Local Pareto front hypervolume: 14
+Individuals in the Pareto front: 1
+Local Pareto front mean length: 6
+Local Pareto front mean width: 1
+Local Pareto front hypervolume: 14
+Individuals in the Pareto front: 1
+Local Pareto front mean length: 6
+Local Pareto front mean width: 1
+Local Pareto front hypervolume: 14
+Individuals in the Pareto front: 1
+Local Pareto front mean length: 6
+Local Pareto front mean width: 1
+Local Pareto front hypervolume: 14
+Individuals in the Pareto front: 1
+Local Pareto front mean length: 6
+Local Pareto front mean width: 1
+Local Pareto front hypervolume: 14
+Individuals in the Pareto front: 1
+Local Pareto front mean length: 6
+Local Pareto front mean width: 1
+Local Pareto front hypervolume: 14
+Individuals in the Pareto front: 1
+Local Pareto front mean length: 6
+Local Pareto front mean width: 1
+Local Pareto front hypervolume: 14
+Individuals in the Pareto front: 1
+Local Pareto front mean length: 6
+Local Pareto front mean width: 1
+Local Pareto front hypervolume: 14
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 17
+Local Pareto front mean width: 0.5
+Local Pareto front hypervolume: 36
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 17
+Local Pareto front mean width: 0.5
+Local Pareto front hypervolume: 36
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 17
+Local Pareto front mean width: 0.5
+Local Pareto front hypervolume: 36
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 17
+Local Pareto front mean width: 0.5
+Local Pareto front hypervolume: 36
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 17
+Local Pareto front mean width: 0.5
+Local Pareto front hypervolume: 36
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 17
+Local Pareto front mean width: 0.5
+Local Pareto front hypervolume: 36
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 17
+Local Pareto front mean width: 0.5
+Local Pareto front hypervolume: 36
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 17
+Local Pareto front mean width: 0.5
+Local Pareto front hypervolume: 36
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 17
+Local Pareto front mean width: 0.5
+Local Pareto front hypervolume: 36
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 17
+Local Pareto front mean width: 0.5
+Local Pareto front hypervolume: 36
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 17
+Local Pareto front mean width: 0.5
+Local Pareto front hypervolume: 36
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 17
+Local Pareto front mean width: 0.5
+Local Pareto front hypervolume: 36
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 18
+Local Pareto front mean width: 0.5
+Local Pareto front hypervolume: 38
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 18
+Local Pareto front mean width: 0.5
+Local Pareto front hypervolume: 38
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 18
+Local Pareto front mean width: 0.5
+Local Pareto front hypervolume: 38
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 18
+Local Pareto front mean width: 0.5
+Local Pareto front hypervolume: 38
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 18
+Local Pareto front mean width: 0.5
+Local Pareto front hypervolume: 38
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 18
+Local Pareto front mean width: 0.5
+Local Pareto front hypervolume: 38
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 18
+Local Pareto front mean width: 0.5
+Local Pareto front hypervolume: 38
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 21.5
+Local Pareto front mean width: 3.5
+Local Pareto front hypervolume: 141
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 21.5
+Local Pareto front mean width: 3.5
+Local Pareto front hypervolume: 141
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 21.5
+Local Pareto front mean width: 3.5
+Local Pareto front hypervolume: 141
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 21.5
+Local Pareto front mean width: 3.5
+Local Pareto front hypervolume: 141
+Individuals in the Pareto front: 2
+Local Pareto front mean length: 21.5
+Local Pareto front mean width: 3.5
+Local Pareto front hypervolume: 141
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 22.666666666666668
+Local Pareto front mean width: 4
+Local Pareto front hypervolume: 191
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 22.666666666666668
+Local Pareto front mean width: 4
+Local Pareto front hypervolume: 191
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 3
+Local Pareto front mean length: 31.666666666666668
+Local Pareto front mean width: 5
+Local Pareto front hypervolume: 308
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
+Individuals in the Pareto front: 4
+Local Pareto front mean length: 30.75
+Local Pareto front mean width: 4.75
+Local Pareto front hypervolume: 311
